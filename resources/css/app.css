@@ -140,3 +140,6 @@
         height: 72vh;
     }
 }
+.is-stuck #site-header {
+    @apply fixed top-0 left-0 w-full shadow-lg z-[60];
+}

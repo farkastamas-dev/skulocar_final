@@ -1,6 +1,9 @@
+import $ from "jquery";
+window.$ = $;
+window.jQuery = $;
 import "./bootstrap";
 import "fslightbox";
-import "./lightbox.min";
+// import "./lightbox.min";
 // import Swiper from "swiper";
 // import "swiper/css";
 import Alpine from "alpinejs";
@@ -47,14 +50,3 @@ fsLightbox.props.customToolbarButtons = [
     },
 ];
 import.meta.glob(["../images/**", "../fonts/**"]);
-document.addEventListener("DOMContentLoaded", function () {
-    const header = document.getElementById("site-header");
-
-    window.addEventListener("scroll", function () {
-        if (window.scrollY > 50) {
-            header.classList.add("sticky-header");
-        } else {
-            header.classList.remove("sticky-header");
-        }
-    });
-});

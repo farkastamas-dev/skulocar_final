@@ -52,6 +52,20 @@
         <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
         {{-- <script src="{{ Vite::asset('resources/js/lightbox.min.js') }}"></script> --}}
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+  const threshold = 50; // ennyi görgetés után ragadjon fel
+  const onScroll = () => {
+    if (window.scrollY > threshold) {
+      document.body.classList.add('is-stuck');
+    } else {
+      document.body.classList.remove('is-stuck');
+    }
+  };
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+});
+    </script>
 </body>
 
 </html>
