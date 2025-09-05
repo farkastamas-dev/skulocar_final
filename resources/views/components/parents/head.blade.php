@@ -1,23 +1,23 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-<title>Laravel - The PHP Framework For Web Artisans</title>
+<title></title>
 <!-- Primary Meta Tags -->
-<meta name="title" content="Laravel - The PHP Framework For Web Artisans">
-<meta name="description" content="Laravel is a PHP web application framework with expressive, elegant syntax. We've already laid the foundation — freeing you to create without sweating the small things.">
+<meta name="title" content="">
+<meta name="description" content="">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://laravel.com/">
-<meta property="og:title" content="Laravel - The PHP Framework For Web Artisans">
-<meta property="og:description" content="Laravel is a PHP web application framework with expressive, elegant syntax. We've already laid the foundation — freeing you to create without sweating the small things.">
-<meta property="og:image" content="https://laravel.com/images/og/laravel-home.png">
+<meta property="og:url" content="">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://laravel.com/">
-<meta property="twitter:title" content="Laravel - The PHP Framework For Web Artisans">
-<meta property="twitter:description" content="Laravel is a PHP web application framework with expressive, elegant syntax. We've already laid the foundation — freeing you to create without sweating the small things.">
-<meta property="twitter:image" content="https://laravel.com/images/og/laravel-home.png">
+<meta property="twitter:url" content="">
+<meta property="twitter:title" content="">
+<meta property="twitter:description" content="">
+<meta property="twitter:image" content="">
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
