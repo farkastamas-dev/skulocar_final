@@ -1,5 +1,5 @@
 <!-- Header -->
-<div class="relative flex h-[100px] items-center justify-between bg-black px-6 text-white" x-data="{ open: false, submenu1: false, submenu2: false }">
+<div id="site-header" class="relative flex h-[100px] items-center justify-between bg-black px-6 text-white" x-data="{ open: false, submenu1: false, submenu2: false }">
     <div class="container mx-auto flex items-center justify-between">
         <!-- Logo -->
         <a href="#" class="text-2xl font-bold text-[var(--secondary-color)]">

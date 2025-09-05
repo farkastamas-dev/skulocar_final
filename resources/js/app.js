@@ -47,3 +47,15 @@ fsLightbox.props.customToolbarButtons = [
     },
 ];
 import.meta.glob(["../images/**", "../fonts/**"]);
+document.addEventListener("DOMContentLoaded", function () {
+    const header = document.getElementById("site-header");
+    const stickyClass = "fixed top-0 left-0 w-full shadow-lg z-50";
+
+    window.addEventListener("scroll", function () {
+        if (window.scrollY > 50) {
+            header.classList.add(...stickyClass.split(" "));
+        } else {
+            header.classList.remove(...stickyClass.split(" "));
+        }
+    });
+});

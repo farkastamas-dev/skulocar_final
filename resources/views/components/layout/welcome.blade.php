@@ -21,6 +21,21 @@
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+    const header = document.getElementById("site-header");
+
+    window.addEventListener("scroll", function () {
+        if (window.scrollY > 50) {
+            header.classList.add("fixed", "top-0", "left-0", "w-full", "shadow-lg", "z-50");
+            header.classList.remove("relative");
+        } else {
+            header.classList.remove("fixed", "top-0", "left-0", "w-full", "shadow-lg", "z-50");
+            header.classList.add("relative");
+        }
+    });
+});
+    </script>
 </body>
 
 </html>
