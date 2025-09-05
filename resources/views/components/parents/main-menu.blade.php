@@ -30,6 +30,7 @@
             </div>
 
             <a href="{{ route('carpart') }}" class="{{ request()->routeIs('carpart') ? 'active' : '' }} menu-item py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Alkatrész</a>
+            <a href="{{ route('carpart') }}" class="{{ request()->routeIs('carpart') ? 'active' : '' }} menu-item py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">3D futómű állítás</a>
             <a href="{{ url('https://felnitrader.hu/skulocarparts') }}" target="_blank" class="py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Felni/Gumi</a>
             <a href="{{ route('price_offer') }}" class="{{ request()->routeIs('price_offer') ? 'active' : '' }} menu-item py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Árajánlat</a>
             <a href="{{ route('contact') }}" class="{{ request()->routeIs('contact') ? 'active' : '' }} menu-item py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Kapcsolat</a>
@@ -80,6 +81,7 @@
             </li>
 
             <li><a href="{{ route('carpart') }}" class="{{ request()->routeIs('carpart') ? 'active' : '' }} menu-item block px-6 py-4 transition-colors duration-300 hover:text-[var(--secondary-color)]">Alkatrész</a></li>
+            <li><a href="{{ route('carpart') }}" class="{{ request()->routeIs('carpart') ? 'active' : '' }} menu-item block px-6 py-4 transition-colors duration-300 hover:text-[var(--secondary-color)]">3D futómű állítás</a></li>
             <li><a href="{{ url('https://felnitrader.hu/skulocarparts') }}" target="_blank" class="block px-6 py-4 transition-colors duration-300 hover:text-[var(--secondary-color)]">Felni/Gumi</a></li>
             <a href="{{ route('price_offer') }}" class="{{ request()->routeIs('price_offer') ? 'active' : '' }} menu-item block px-6 py-4 transition-colors duration-300 hover:text-[var(--secondary-color)]">Árajánlat</a></li>
             <a href="{{ route('contact') }}" class="{{ request()->routeIs('contact') ? 'active' : '' }} menu-item block px-6 py-4 transition-colors duration-300 hover:text-[var(--secondary-color)]">Kapcsolat</a></li>
