@@ -1,5 +1,6 @@
 import "./bootstrap";
 import "fslightbox";
+import "./lightbox.min";
 // import Swiper from "swiper";
 // import "swiper/css";
 import Alpine from "alpinejs";

@@ -50,7 +50,7 @@
             <x-parents.footer />
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-        <script src="{{ Vite::asset('resources/js/lightbox.min.js') }}"></script>
+        {{-- <script src="{{ Vite::asset('resources/js/lightbox.min.js') }}"></script> --}}
     </div>
 </body>
 
