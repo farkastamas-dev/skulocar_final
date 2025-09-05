@@ -75,7 +75,7 @@
                     </svg>
                 </button>
                 <ul x-show="submenu2" x-transition class="bg-black/80">
-                    <li><a href="{{ route('carcosmetics_reference') }}" class="class=" {{ request()->routeIs('carcosmetics_reference') ? 'active' : '' }} block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Referenciáink</a></li>
+                    <li><a href="{{ route('carcosmetics_reference') }}" class="class={{ request()->routeIs('carcosmetics_reference') ? 'active' : '' }} block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Referenciáink</a></li>
                 </ul>
             </li>
 
