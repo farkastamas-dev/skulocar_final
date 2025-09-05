@@ -1,0 +1,124 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DrfUxn-f.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/images/car_parts/2.png": {
+    "file": "assets/2-C7TuL0_s.png",
+    "src": "resources/images/car_parts/2.png"
+  },
+  "resources/images/car_parts/car_roof_box.jpg": {
+    "file": "assets/car_roof_box-D8NV2dxa.jpg",
+    "src": "resources/images/car_parts/car_roof_box.jpg"
+  },
+  "resources/images/car_parts/service-1.png": {
+    "file": "assets/service-1-NRYXai3Q.png",
+    "src": "resources/images/car_parts/service-1.png"
+  },
+  "resources/images/car_parts/service-3.png": {
+    "file": "assets/service-3-D1CsmIVU.png",
+    "src": "resources/images/car_parts/service-3.png"
+  },
+  "resources/images/car_service/img01.jpg": {
+    "file": "assets/img01-DZgdRd5d.jpg",
+    "src": "resources/images/car_service/img01.jpg"
+  },
+  "resources/images/car_service/img02.jpg": {
+    "file": "assets/img02-sddO5LcX.jpg",
+    "src": "resources/images/car_service/img02.jpg"
+  },
+  "resources/images/car_service/img03.jpg": {
+    "file": "assets/img03-C9pl-0cT.jpg",
+    "src": "resources/images/car_service/img03.jpg"
+  },
+  "resources/images/car_service/img04.jpg": {
+    "file": "assets/img04-C2uZdxJr.jpg",
+    "src": "resources/images/car_service/img04.jpg"
+  },
+  "resources/images/car_service/img05.jpg": {
+    "file": "assets/img05-C7nfh76U.jpg",
+    "src": "resources/images/car_service/img05.jpg"
+  },
+  "resources/images/car_service/img06.jpg": {
+    "file": "assets/img06-D7CTKhUA.jpg",
+    "src": "resources/images/car_service/img06.jpg"
+  },
+  "resources/images/home1.png": {
+    "file": "assets/home1-DCxYNMxZ.png",
+    "src": "resources/images/home1.png"
+  },
+  "resources/images/img01.jpg": {
+    "file": "assets/img01-Dw302jfz.jpg",
+    "src": "resources/images/img01.jpg"
+  },
+  "resources/images/img02.jpg": {
+    "file": "assets/img02-B_mtwCaK.jpg",
+    "src": "resources/images/img02.jpg"
+  },
+  "resources/images/img03.jpg": {
+    "file": "assets/img03-C2aW9zza.jpg",
+    "src": "resources/images/img03.jpg"
+  },
+  "resources/images/img04.jpg": {
+    "file": "assets/img04-dmkQBROc.jpg",
+    "src": "resources/images/img04.jpg"
+  },
+  "resources/images/img06.jpg": {
+    "file": "assets/img06-D8ofsvNG.jpg",
+    "src": "resources/images/img06.jpg"
+  },
+  "resources/images/img07.jpg": {
+    "file": "assets/img07-yQQZ43zr.jpg",
+    "src": "resources/images/img07.jpg"
+  },
+  "resources/images/img08.jpg": {
+    "file": "assets/img08-413sbruI.jpg",
+    "src": "resources/images/img08.jpg"
+  },
+  "resources/images/img09.jpg": {
+    "file": "assets/img09-K884bgEO.jpg",
+    "src": "resources/images/img09.jpg"
+  },
+  "resources/images/img10.jpg": {
+    "file": "assets/img10-HzCRanWs.jpg",
+    "src": "resources/images/img10.jpg"
+  },
+  "resources/images/img11.jpg": {
+    "file": "assets/img11-CkMgQR-d.jpg",
+    "src": "resources/images/img11.jpg"
+  },
+  "resources/images/img12.jpg": {
+    "file": "assets/img12-BPe9jOmg.jpg",
+    "src": "resources/images/img12.jpg"
+  },
+  "resources/images/img13.jpg": {
+    "file": "assets/img13-CIDWTgBH.jpg",
+    "src": "resources/images/img13.jpg"
+  },
+  "resources/images/img14.jpg": {
+    "file": "assets/img14-ClMNwsNG.jpg",
+    "src": "resources/images/img14.jpg"
+  },
+  "resources/images/skulo-car-black.webp": {
+    "file": "assets/skulo-car-black-BcZrRAZU.webp",
+    "src": "resources/images/skulo-car-black.webp"
+  },
+  "resources/images/skulo-car-white.webp": {
+    "file": "assets/skulo-car-white-C5mch3xY.webp",
+    "src": "resources/images/skulo-car-white.webp"
+  },
+  "resources/images/thor.png": {
+    "file": "assets/thor-BzXn3pNu.png",
+    "src": "resources/images/thor.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BVspJnGz.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
