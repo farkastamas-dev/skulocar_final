@@ -97,6 +97,18 @@
                         </div>
                     </div>
 
+                    <div class="mt-4">
+                        <label class="block text-sm font-medium">
+                            Forgalmi engedély feltöltése</span>
+                        </label>
+                        <input type="file" name="registration_file" accept=".jpg,.jpeg,.png,.pdf" class="w-full mt-1 border border-gray-700 rounded-lg p-3 text-sm
+                  file:mr-4 file:py-2 file:px-4
+                  file:rounded-lg file:border-0
+                  file:text-sm file:font-semibold
+                  file:bg-[var(--secondary-color)] file:text-white
+                  hover:file:bg-[var(--secondary-color-hover)]" style="background-color:#2a2929; color: var(--font-color-primary);">
+                    </div>
+
                     <!-- Message teljes szélességben -->
                     <div class="mt-4">
                         <label class="block text-sm font-medium">Üzenet</label>
