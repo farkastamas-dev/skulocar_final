@@ -51,7 +51,7 @@
         <div class="text-center mt-10">
             <div class="flex flex-col gap-4 sm:flex-row sm:justify-center">
                 <button class="cursor-pointer rounded-lg border-2 border-[var(--secondary-color)] px-8 py-4 font-semibold text-[var(--secondary-color)] transition-colors hover:bg-[var(--secondary-color-hover)] hover:text-white">
-                    <a href="{{ route('kapcsolat') }}">Ajánlatot kérek</a>
+                    <a href="{{ route('contact') }}">Ajánlatot kérek</a>
                 </button>
             </div>
         </div>
