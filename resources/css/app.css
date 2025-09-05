@@ -141,5 +141,8 @@
     }
 }
 .is-stuck #site-header {
-    @apply fixed top-0 left-0 w-full shadow-lg z-[60];
+    @apply fixed top-0 left-0 w-full shadow-lg bg-black z-[9999];
+}
+.is-stuck body {
+    padding-top: 100px; /* ugyanannyi mint a header magassága */
 }
