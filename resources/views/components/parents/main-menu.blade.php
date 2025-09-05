@@ -62,7 +62,7 @@
                     <li><a href="{{ route('szerviz.muhely') }}" class="{{ request()->routeIs('szerviz.muhely') ? 'active' : '' }} menu-item block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Műhely</a></li>
                     <li><a href="{{ route('szerviz.szakszerviz') }}" class="{{ request()->routeIs('szerviz.szakszerviz') ? 'active' : '' }} menu-item block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Szakszervíz</a></li>
                     <li><a href="{{ route('szerviz.hanggenerator') }}" class="{{ request()->routeIs('szerviz.hanggenerator') ? 'active' : '' }} menu-item block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Hanggenerátor</a></li>
-                    <li><a href="#" class="{{ request()->routeIs('szerviz/referenciaink') ? 'active' : '' }} menu-item block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Referenciáink</a></li>
+                    <li><a href="" class="{{ request()->routeIs('szerviz/referenciaink') ? 'active' : '' }} menu-item block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Referenciáink</a></li>
                 </ul>
             </li>
 
@@ -75,7 +75,7 @@
                     </svg>
                 </button>
                 <ul x-show="submenu2" x-transition class="bg-black/80">
-                    <li><a href="#" class="block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Referenciáink</a></li>
+                    <li><a href="{{ route('carcosmetics_reference') }}" class="class=" {{ request()->routeIs('carcosmetics_reference') ? 'active' : '' }} block px-10 py-3 transition-colors duration-300 hover:text-[var(--secondary-color)]">Referenciáink</a></li>
                 </ul>
             </li>
 
